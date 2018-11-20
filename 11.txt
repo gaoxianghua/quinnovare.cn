@@ -1,0 +1,10 @@
+<xml>
+    <ToUserName><![CDATA[gh_200bf643300a]]></ToUserName>
+    <FromUserName><![CDATA[oaIgKtwgPT7oSQ0LUyzyTRODgpBs]]></FromUserName>
+    <CreateTime>1542681967</CreateTime>
+    <MsgType><![CDATA[event]]></MsgType>
+    <Event><![CDATA[VIEW]]></Event>
+    <EventKey><![CDATA[https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxb7729605637ecb26&redirect_uri=http://quinnovare.cn/wechat_oAuth2/index&response_type=code&scope=snsapi_base&state=registerProject#wechat_redirect]]></EventKey>
+    <MenuId>443697520</MenuId>
+    <Encrypt><![CDATA[I0LQFfgwi2PLyGHdIemRKnc/H89EKJ8adHyhfeHusYqS1tmCWYdE8UieB5f0ZDlG7tC+Sti/outE+lyCSonouBOBDwGUWVN0HWyGV+jq7xHVt/5WJxpWr8Gei148xSLKPWx/NsKFIB25KqGOH/Uyvq7yKYsm+x3FAsbLaDGlAnDJ2Q97VmPpTPr0JclT+0uOinCNlAyUPN6pNA9n1egDK/6K1fY8QPFigDN0O0lii9XjEEsWlYYwF9Dw5VycZPOXzc7NJM8g6jwnbI8XhZpDJlPxdYNtbJ/dXhN/n+/QM5uYudzs5S++IqMZqjUvWxaUb0Istht969KsL2VxLbtgdCxJSe6LnZSR5ewe8OlkoWh++ezWVnPQPvF9jHP+fAR+QRyck4yh37BFzWMybSCmzEf1yakGqCRdDeX0FynrqkiyGIOY903E4+WxQHdNxlQRCBCS1unbqMPsZBrM6rozR77K64TZAGRHmtdjFKsxbNi+Ji5mSBYBl6rHdhfLJ3LJR2dLaghs55w0O4lTpz0wHfIZuFPg54AsCOfNpNMML8inyO3ewWir94M4xveWuajzciuoK8XvmWoh8v9BNSxUxM/Zk+f8PKlCDEOnRJy/mBwidw21rj8HtJGDjBYbu4xR5L4zsnrV6Cs4QpJC+nr8iimeAEyssmgF0b4gJFxIrTgnHk3GR2X6PygYo4H2mF51RwIudKUBbTgdKzlIa2HgzQ==]]></Encrypt>
+</xml>
